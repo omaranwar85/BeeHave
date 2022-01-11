@@ -44,7 +44,8 @@ y_pred_all = []
 
 # Populate the list with features
 for kk in range(m):
-    # Information about week/season is encoded as a pair of sin and cos waveforms, with a period of 52.14 (weeks in one year)
+    # Information about week/season is encoded as a pair of sin and cos waveforms, with a period of 52.14 (weeks in one year). 
+    # First two column features have time information encoded as Sin, Cos with 1,440 minute period, which is not used here. AllFeaturesN[kk,0,0] and AllFeaturesN[kk,0,1]
     RF_list[kk].append(AllFeaturesN[kk,0,2]) # WeekSin
     RF_list[kk].append(AllFeaturesN[kk,0,3]) # WeekCos
     for jj in range(4,35): # For all the features starting from temp inside the hive -> Z-axis of accelerometer. A total of 31 features are populates in this loop
