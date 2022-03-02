@@ -54,7 +54,7 @@ https://www.sparkfun.com/products/14812
 
 As this project progresses, we will be adding more to this repository.
 
-===========================================================================================================================================================
+==========================================================================
 One of our accepted works at AAAI22 workshop for 'Practical deep-learning in the Wild' also uses this dataset. You can access this paper using following link
 https://practical-dl.github.io/long_paper/18.pdf
 
