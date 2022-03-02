@@ -4,6 +4,7 @@ This repository contains the board and schematic files (designed in Eagle) for t
 
 python                    3.7.11  
 pandas                    1.3.2 
+
 matplotlib                3.4.2              
 numpy                     1.18.5                         
 scikit-learn              0.24.2           
