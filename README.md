@@ -56,6 +56,6 @@ As this project progresses, we will be adding more to this repository.
 
 ==========================================================================
 
-One of our accepted works at AAAI22 workshop for 'Practical deep-learning in the Wild' also uses this dataset. You can access this paper using the following link
+One of our accepted works at AAAI22 workshop for 'Practical deep-learning in the Wild' also uses the data collected using this system, with a significant overlap with the dataset shared in this repository. You can access this paper using the following link
 https://practical-dl.github.io/long_paper/18.pdf
 
