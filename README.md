@@ -59,3 +59,11 @@ As this project progresses, we will be adding more to this repository.
 One of our accepted works at AAAI22 workshop for 'Practical deep-learning in the Wild' also uses the data collected using this system, with a significant overlap with the dataset shared in this repository. You can access this paper using the following link
 https://practical-dl.github.io/long_paper/18.pdf
 
+If you use this dataset, please refer our work.
+
+@inproceedings{anwar2022we,
+  title={WE-Bee: Weight Estimator for Beehives Using Deep Learning},
+  author={Anwar, Omar and Keating, Adrian and Cardell-Oliver, Rachel and Datta, Amitava and Putrino, Gino},
+  booktitle={AAAI Conference on Artificial Intelligence 2022: 1st International Workshop on Practical Deep Learning in the Wild},
+  year={2022}
+}
