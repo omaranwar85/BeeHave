@@ -59,11 +59,25 @@ As this project progresses, we will be adding more to this repository.
 One of our accepted works at AAAI22 workshop for 'Practical deep-learning in the Wild' also uses the data collected using this system, with a significant overlap with the dataset shared in this repository. You can access this paper using the following link
 https://practical-dl.github.io/long_paper/18.pdf
 
-If you use this dataset, please refer our work.
+If you use this dataset, please refer one of our works.
 
 @inproceedings{anwar2022we,
   title={WE-Bee: Weight Estimator for Beehives Using Deep Learning},
   author={Anwar, Omar and Keating, Adrian and Cardell-Oliver, Rachel and Datta, Amitava and Putrino, Gino},
   booktitle={AAAI Conference on Artificial Intelligence 2022: 1st International Workshop on Practical Deep Learning in the Wild},
   year={2022}
+}
+
+@article{anwar2022BeeDAS,
+title = {Design and development of low-power, long-range data acquisition system for beehives - BeeDAS},
+journal = {Computers and Electronics in Agriculture},
+volume = {201},
+pages = {107281},
+year = {2022},
+issn = {0168-1699},
+doi = {https://doi.org/10.1016/j.compag.2022.107281},
+url = {https://www.sciencedirect.com/science/article/pii/S0168169922005932},
+author = {Omar Anwar and Adrian Keating and Rachel Cardell-Oliver and Amitava Datta and Gino Putrino},
+keywords = {Data acquisition, Low-power, Long-range, Beehive monitoring, Weight estimation, Random forest},
+abstract = {Decision making capability of a system is highly dependent upon the quality and quantity of training data. Majority of beehive monitoring systems developed for research purposes are designed to collect data through a small set of sensors, and from locations with little geographic diversity. This hinders the development of a dataset that can be used to effectively train machine learning models. In this work, we explain the design and development of a multi-sensory, remote data acquisition system for beehives (BeeDAS), with focus on low-power consumption and long-range communication. We address design challenges associated with such systems and highlight the critical issues that need consideration. The proposed system enables collection of data from beehives at remote locations and harsh environment. Results of field deployments elucidate the effectiveness of various sensors which measure temperature, humidity, atmospheric pressure, CO2, acoustics, vibrations and the weight of a hive in hostile environment. This work also uses random forest regression to evaluate the feature importance of different sensors, environmental variables such as temperature, humidity, rain, wind speed as well as the information related to seasons, towards estimating the daily hive weight change, on a dataset comprised of 1,250 days of sensor recordings. We also evaluate the protocol designed for communication using Narrow Band Internet of Things (NB-IoT). The issues related to power optimization, sleep intervals and data storage in remote monitoring are also discussed.}
 }
