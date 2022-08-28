@@ -1,6 +1,6 @@
 # BeeHave
 
-This repository contains the board and schematic files (designed in Eagle) for the beehive monitoring system. It also contains a python file 'Script.py' and a numpy file containing the dataset with 1,250 days of beehive sensor data and waether recordings. The sample python script reads the numpy file and uses random forest to estimate the daily weight variations. Following packages are required to run the script.
+This repository contains the board and schematic files (designed in Eagle) for the beehive monitoring system, BeeDAS (Design and development of low-power, long-range data acquisition system for beehives). It also contains a python file 'Script.py' and a numpy file containing the dataset with 1,250 days of beehive sensor data and waether recordings. The sample python script reads the numpy file and uses random forest to estimate the daily weight variations. Following packages are required to run the script.
 
 python                    3.7.11  
 
@@ -21,7 +21,7 @@ https://media.githubusercontent.com/media/omaranwar85/BeeHave/main/AllFeatures_s
 
 
 
-The datasheets of used components are available onlie using the following links
+The datasheets of used components are available online, and can be accessed using the following links
 
 CCS811 Gas Sensor
 https://www.sciosense.com/wp-content/uploads/2020/01/SC-001232-DS-2-CCS811B-Datasheet-Revision-2.pdf
