@@ -57,7 +57,7 @@ As this project progresses, we will be adding more to this repository.
 ==========================================================================
 
 One of our accepted works at AAAI22 workshop for 'Practical deep-learning in the Wild' also uses the data collected using this system, with a significant overlap with the dataset shared in this repository. You can access this paper using the following link
-https://practical-dl.github.io/long_paper/18.pdf
+https://www.researchgate.net/publication/358954859_WE-Bee_Weight_Estimator_for_Beehives_Using_Deep_Learning
 
 If you use this dataset, please refer one of our works.
 
